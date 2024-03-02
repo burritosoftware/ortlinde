@@ -1,3 +1,7 @@
+> [!WARNING]
+> ## This repository is archived and only available to provide download links for older versions of [STEAM DECK VOLTEX](https://sdvx.burrito.software).
+> ### Please use official, upstream [NexerqDev/Ortlinde](https://github.com/NexerqDev/Ortlinde) instead.
+---
 # ortlinde
 
 "Simple SDVX Konasute Launcher"
